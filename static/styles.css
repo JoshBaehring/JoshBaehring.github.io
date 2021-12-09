@@ -306,15 +306,12 @@ a:hover {
   position: absolute;
   top: 350px;
   left: 175px;
-  display: block;
   z-index: 11000000;
   background-color: transparent;
   border-radius: 2px;
   padding: 0;
-  transition: all 250ms linear;
   height: 150px;
   border: solid 6px #CCC;
-  border-image-outset: 0px;
 }
 .image1 {
   position: absolute;
