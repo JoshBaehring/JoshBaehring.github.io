@@ -265,6 +265,14 @@ a:hover {
   border-radius: 10px;
 }
 
+a:not(.nostyle){
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    position: relative;
+    height: 80vh;
+    color: black;
+    margin-right: 210px !important;
+    margin-left: 210px !important;
+}
 
 .section-dropdown-sub {
   position: relative;
