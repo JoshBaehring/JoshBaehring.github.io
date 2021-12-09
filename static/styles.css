@@ -312,7 +312,7 @@ a:hover {
   border-radius: 2px;
   padding: 0;
   transition: all 250ms linear;
-  height: 200px;
+  height: 150px;
   border: solid 6px #CCC;
   border-image-outset: 0px;
 }
