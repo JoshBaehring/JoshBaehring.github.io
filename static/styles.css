@@ -428,6 +428,23 @@ a:hover {
     box-shadow: 0 0 30px rgba(0,0,0,.45);
 }
 
+.image8 {
+    position: absolute;
+    top: 375px;
+    left: 400px;
+    width: 375px;
+    display: block;
+    z-index: 11000000;
+    background-color: transparent;
+    border-radius: 2px;
+    padding: 0;
+    transition: all 250ms linear;
+    height: 175px;
+    border: solid 6px #CCC;
+    border-image-outset: 0px;
+    box-shadow: 0 0 30px rgba(0,0,0,.45);
+}
+
 .video {
   width: 700px;
   border-radius: 8px;
