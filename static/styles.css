@@ -491,3 +491,12 @@ p {
     padding-bottom: 25px;
     height: 100vh;
 }
+
+.Capture2 {
+  position: relative;
+  font-size: 13em !important;
+  height: 80vh;
+  color: #C30F16;
+  margin-right: 220px !important;
+  margin-left: 220px !important;
+}
