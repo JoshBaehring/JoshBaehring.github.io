@@ -333,6 +333,7 @@ a:hover {
   position: absolute;
   top: 350px;
   left: 150px;
+  width: 125px;
   display: block;
   z-index: 11000000;
   background-color: transparent;
