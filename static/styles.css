@@ -308,10 +308,8 @@ a:hover {
   left: 80px;
   z-index: 11000000;
   background-color: transparent;
-  border-radius: 2px;
   padding: 0;
   height: 150px;
-  border: solid 6px #CCC;
 }
 .image1 {
   position: absolute;
