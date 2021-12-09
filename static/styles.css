@@ -414,7 +414,7 @@ a:hover {
   position: relative;
   height: 80vh;
   color: black;
-  margin-right: 300px;
+  margin-right: 300px !important;
   margin-left: 300px !important;
 }
 
