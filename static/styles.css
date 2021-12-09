@@ -304,8 +304,8 @@ a:hover {
 }
 .logo {
   position: absolute;
-  top: 350px;
-  left: 100px;
+  top: 300px;
+  left: 80px;
   z-index: 11000000;
   background-color: transparent;
   border-radius: 2px;
