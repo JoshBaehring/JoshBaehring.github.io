@@ -313,14 +313,15 @@ a:hover {
 .image1 {
   position: absolute;
   top: 1000px;
-  left: 150px;
+  left: 450px;
   display: block;
   z-index: 11000000;
   background-color: transparent;
   border-radius: 2px;
   padding: 0;
   transition: all 250ms linear;
-  height: 200px;
+  height: 300px;
+  width: 290px;
   border: solid 6px #CCC;
   border-image-outset: 0px;
   box-shadow: 0 0 30px rgba(0,0,0,.45);
@@ -330,14 +331,14 @@ a:hover {
   position: absolute;
   top: 900px;
   left: 150px;
-  width: 460px;
+  width: 490px;
   display: block;
   z-index: 11000000;
   background-color: transparent;
   border-radius: 2px;
   padding: 0;
   transition: all 250ms linear;
-  height: 400px;
+  height: 600px;
   border: solid 6px #CCC;
   border-image-outset: 0px;
   box-shadow: 0 0 30px rgba(0,0,0,.45);
