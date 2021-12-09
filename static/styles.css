@@ -313,7 +313,7 @@ a:hover {
 .image1 {
   position: absolute;
   top: 1000px;
-  left: 60px;
+  left: 600px;
   display: block;
   z-index: 11000000;
   background-color: transparent;
@@ -414,7 +414,7 @@ a:hover {
 
 .image7 {  
     position: absolute;
-    top: 375px;
+    top: 430px;
     left: 150px;
     width: 375px;
     display: block;
@@ -431,7 +431,7 @@ a:hover {
 
 .image8 {
     position: absolute;
-    top: 400px;
+    top: 430px;
     left: 600px;
     width: 375px;
     display: block;
