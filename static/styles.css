@@ -313,7 +313,7 @@ a:hover {
 .image1 {
   position: absolute;
   top: 1000px;
-  left: 600px;
+  left: 700px;
   display: block;
   z-index: 11000000;
   background-color: transparent;
@@ -321,7 +321,7 @@ a:hover {
   padding: 0;
   transition: all 250ms linear;
   height: 300px;
-  width: 290px;
+  width: 330px;
   border: solid 6px #CCC;
   border-image-outset: 0px;
   box-shadow: 0 0 30px rgba(0,0,0,.45);
@@ -330,7 +330,7 @@ a:hover {
 .image2 {
   position: absolute;
   top: 1100px;
-  left: 150px;
+  left: 100px;
   width: 490px;
   display: block;
   z-index: 11000000;
