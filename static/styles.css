@@ -422,6 +422,8 @@ p {
 
 #font {
   font-size: medium;
+  margin-right: 210px !important;
+  margin-left: 210px !important;
 }
 
 #white {
