@@ -353,7 +353,8 @@ a:hover {
   border-radius: 2px;
   padding: 0;
   transition: all 250ms linear;
-  height: 200px;
+  height: 300px;
+  width: 355px;
   border: solid 6px #CCC;
   border-image-outset: 0px;
   box-shadow: 0 0 30px rgba(0,0,0,.45);
@@ -414,7 +415,7 @@ a:hover {
     position: absolute;
     top: 340px;
     left: 150px;
-    width: 300px;
+    width: 375px;
     display: block;
     z-index: 11000000;
     background-color: transparent;
