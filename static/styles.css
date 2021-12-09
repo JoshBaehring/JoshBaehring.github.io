@@ -378,7 +378,7 @@ a:hover {
 
 .image5 {
   position: absolute;
-  top: 350px;
+  top: 500px;
   left: 800px;
   display: block;
   z-index: 11000000;
@@ -390,7 +390,7 @@ a:hover {
   border: solid 6px #CCC;
   border-image-outset: 0px;
   box-shadow: 0 0 30px rgba(0,0,0,.45);
-  width: 295px;
+  width: 350px;
 }
 
 
