@@ -420,6 +420,11 @@ p {
   font-size: large;
 }
 
+#font2 {
+  margin-right: 210px !important;
+  margin-left: 210px !important;
+}
+
 #font {
   font-size: medium;
   margin-right: 210px !important;
