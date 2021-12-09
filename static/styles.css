@@ -379,7 +379,7 @@ a:hover {
 .image5 {
   position: absolute;
   top: 500px;
-  left: 800px;
+  left: 900px;
   display: block;
   z-index: 11000000;
   background-color: transparent;
@@ -396,7 +396,7 @@ a:hover {
 .image6 {
   position: absolute;
   top: 500px;
-  left: 150px;
+  left: 2000px;
   display: block;
   z-index: 11000000;
   background-color: transparent;
